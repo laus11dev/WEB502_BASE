@@ -1,0 +1,26 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "titles": "Manchester United",
+      "cup": 20,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/210px-Manchester_United_FC_crest.svg.png",
+      "city": "Manchester"
+    },
+    {
+      "id": 2,
+      "titles": "Manchester City",
+      "cup": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png",
+      "city": "Manchester"
+    },
+    {
+      "id": 3,
+      "titles": "Arsenal",
+      "cup": 13,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png",
+      "city": "London"
+    }
+  ],
+  "users": []
+}
